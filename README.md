@@ -1,6 +1,6 @@
 <!---### Hi there 👋--->
 
-🚀 AHMED JAN - Full Stack Developer
+#### AHMED JAN - Full Stack Developer
 
 ## About Me
 
