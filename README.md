@@ -4,11 +4,17 @@
 
 ## About Me
 
-Versatile and results-oriented professional with a robust background in web development and Android. Currently contributing to innovative projects at VitCamp IT Solutions and Alioth Digital Studios, I specialize in creating dynamic and user-centric applications.
+<!--- Versatile and results-oriented professional with a robust background in web development and Android. Currently contributing to innovative projects at VitCamp IT Solutions and Alioth Digital Studios, I specialize in creating dynamic and user-centric applications.
 
 With expertise in frontend technologies, including Flutter, WordPress, and various web development tools, I have successfully implemented solutions for hotel themes, event management, and responsive web layouts. My commitment to optimizing codebases and leveraging technologies such as Firebase and Firestore reflects my dedication to delivering high-performance applications.
 
-Adept at managing diverse team dynamics and fostering collaborative discussions, I am poised to contribute significantly to the success of forward-thinking organizations.
+Adept at managing diverse team dynamics and fostering collaborative discussions, I am poised to contribute significantly to the success of forward-thinking organizations. --->
+
+I am an Implementation Specialist at DocAcquire, dedicated to ensuring client satisfaction through product familiarization, installation, configuration, training, and troubleshooting. I excel in conducting user tests and resolving software bugs, enhancing both product functionality and performance.
+
+With a strong background in web development and Android, I have contributed to innovative projects at VitCamp IT Solutions and Alioth Digital Studios. My expertise lies in frontend technologies such as Flutter and WordPress, and I have successfully implemented solutions for hotel themes, event management, and responsive web layouts. I am committed to optimizing codebases and utilizing technologies like Firebase and Firestore to deliver high-performance applications.
+
+Adept at managing diverse team dynamics and fostering collaborative discussions, I am ready to drive success in forward-thinking organizations.
 
 ## GitHub Repositories
 
